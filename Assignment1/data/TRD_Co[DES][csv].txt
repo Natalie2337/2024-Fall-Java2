@@ -1,0 +1,34 @@
+* code 		Stkcd [证券代码] - 以上交所、深交所公布的证券代码为准
+* string 	Stknme [证券简称] - 以交易所公布的中文简称为准
+* date 		Listdt [上市日期] - 以YYYY-MM-DD表示，上市日期为此股票证券代码的上市日期.
+* string 	Cuntrycd [国家代码] - 本数据库以10表示中国
+* string 	Conme [公司全称] - 以公司公布的中文名为准
+* string 	Conme_en [公司英文全称] - 以公司公布的英文名为准
+* string 	Indcd [行业代码A] - 0001=金融，0002=公用事业，0003=房地产，0004=综合，0005=工业，0006=商业
+* string 	Indnme [行业名称A] - Finance=金融，Utilities=公用事业，Properties=房地产，Conglomerates=综合，Industrials=工业，Commerce=商业
+* string 	Nindcd [行业代码B] - 2001版证监会行业分类代码
+* string 	Nindnme [行业名称B] - 2001版证监会行业分类名Z称
+* string 	Nnindcd [行业代码C] - 2012版证监会行业分类代码
+* string 	Nnindnme [行业名称C] - 2012版证监会行业分类名称
+* date 		Estbdt [公司成立日期] - 以YYYY-MM-DD列示，部分缺少在相应位置上以00表示，如1993年12月某日表示为1993-12-00
+* string 	PROVINCE [所属省份] - 注册地址所属省份。
+* string 	PROVINCECODE [所属省份代码] - 
+* string 	CITY [所属城市] - 注册地址所属城市。
+* string	CITYCODE [所属城市代码] - 
+* string 	OWNERSHIPTYPE [上市公司经营性质] - P0301：国营或国有控股；P0302：中外合作；P0303：中外合资；P0304：外商独资；P0305：集体企业；P0306：私营企业；P0307：事业单位；P0308：政府机关；P0399：其他；备注：（P0302：中外合作；是以确立和完成一个项目而签订契约进行合作生产经营的企业；是一种可以有股权，也可以无股权的合约式的经济组织。P0303：中外合资；国内与国外的自然人或法人共同出资设立的公司）
+* string 	OWNERSHIPTYPECODE [上市公司经营性质编码] - 
+* date		Favaldt [数据库最早交易记录的日期] - 以YYYY-MM-DD列示
+* string 	Curtrd [数据库中交易数据的计量货币] - A股以人民币元计价，上海B股以美元计价，深圳B股以港币计价，CNY=人民币元，HKD=港币，USD=美元
+* value 	Ipoprm [股票发行溢价] - 缺少以-9666表示
+* value 	Ipoprc [发行价格] - 缺少以-9666表示
+* string 	Ipocur [发行价格的计量货币] - CNY=人民币元，HKD=港币，USD=美元
+* int		Nshripo [发行数量] - 缺少值以-9666表示
+* string	Parvcur [股票面值的计量货币] - 计量货币：人民币元，CNY=人民币元
+* date		Ipodt [发行日期] - 以YYYY-MM-DD表示
+* int 		Parval [股票面值] - 
+* string	Sctcd [区域码] - 1=上海，2=深圳，3=北京，
+* string	Statco [公司活动情况] - A=正常交易，D＝终止上市，S=暂停上市， N=停牌
+* string	Crcd [AB股交叉码] - A股和B股的交叉码，指同时拥有A股和B股的公司的A（B）股对应的B（A）股代码
+* date		Statdt [情况变动日] - 以YYYY-MM-DD表示
+* string	Commnt [H股交叉码] - NULL：表示没有交叉码
+* int		Markettype [市场类型] - 1=上证A股市场 (不包含科创板），2=上证B股市场，4=深证A股市场（不包含创业板），8=深证B股市场，16=创业板， 32=科创板，64=北证A股市场。

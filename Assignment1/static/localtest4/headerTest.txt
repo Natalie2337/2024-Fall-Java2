@@ -1,0 +1,21 @@
+t#Stkcd,Stknme,Listdt,Cuntrycd,Conme,Conme_en,Indcd,Indnme,Nindcd,Nindnme,Nnindcd,Nnindnme,Estbdt,PROVINCE,PROVINCECODE,CITY,CITYCODE,OWNERSHIPTYPE,OWNERSHIPTYPECODE,Favaldt,Curtrd,Ipoprm,Ipoprc,Ipocur,Nshripo,Parvcur,Ipodt,Parval,Sctcd,Statco,Crcd,Statdt,Commnt,Markettype
+t#Stkcd,Stknme,Listdt,"Note"
+t#"Stkcd","Stknme","Listdt","Coutrycd","Conme"
+f#"
+t#"","","",Stkcd,""
+f#"""Stkcd""",Stknme,Listdt,Indcd,Nnindnme
+f#Stkcd,Stknme,Listdt,Conme,Conme_en,Indcd,Indnme,Stkcd,PROVINCE,CITY,CITYCODE
+t#Stknme,Listdt,Curtrd,Ipoprm,Ipoprc,Stkcd,"""Stkcd",Listdt,Conme,Indcd
+t#stkcd,stkc,stkcd,stkcd,STKCD, Stkcd,Listdt,"Stkcd""","Stkcd",StkcD
+f#
+t#Stkcd,Listdt,Listdt,Cuntrycd,CITY,PROVINCE
+t#Stkcd
+t#,,,,,,Stkcd,,,,,
+t#Stkcd,Listdt,PROVINCE,CITY,Trddt
+t#Traddt,Stkcd,Tradedt,TradeDate,Indcd,Nindcd
+f#Stkcd,Stkcd,Stkcd
+f#Trddt,Listdt,Conme,stkcd,OWNERSHIPTYPECODE
+f#"Stkcd,"
+t#Stkcd,Trddt,Hiprc,Loprc,ChangeRatio
+f#Trddt,Openprc,Hiprc,Loprc,Dnshrtrd,Dretnd
+f# "Stkcd",Trddt,Loprc

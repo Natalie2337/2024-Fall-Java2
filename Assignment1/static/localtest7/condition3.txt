@@ -1,0 +1,13 @@
+f#newDateCondition#STOCK_CODE#LocalDate#2002-01-01#Bool#false#Cmp#Gt
+t#newDateCondition#LIST_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Gt
+t#newDateCondition#LIST_DATE#LocalDate#2002-01-01#Bool#true#Cmp#Gt
+t#newDateCondition#LIST_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Eq
+t#newDateCondition#LIST_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Lt
+t#newDateCondition#TRADE_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Eq
+t#newDateCondition#TRADE_DATE#LocalDate#1971-02-28#Bool#false#Cmp#Lt
+t#newDateCondition#TRADE_DATE#LocalDate#1971-02-28#Bool#false#Cmp#Lt
+f#newDateCondition#CAPITAL_CHANGE_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Eq
+f#newDateCondition#ESTABLISH_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Lt
+f#newDateCondition#FIRST_RECORD_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Lt
+f#newDateCondition#IPO_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Lt
+f#newDateCondition#STATE_DATE#LocalDate#2002-01-01#Bool#false#Cmp#Lt

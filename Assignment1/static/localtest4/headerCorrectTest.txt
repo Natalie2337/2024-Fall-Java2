@@ -1,0 +1,11 @@
+t#Stkcd
+t#Stkcd,
+t#Stkcd,,
+t#Trddt,Stkcd
+t#Stkcd,Notes
+t#Trddt,Notes1,Notes2,Notes3,Notes4,Stkcd
+t#Mark,Mark,Mark,Stkcd
+t#Stkcd,"Stkcd"""
+t#'Stkcd',Stkcd,"stkcd"
+t#Stkcd,'Trddt','Trddt'
+t#'Stkcd,Stkcd',Stkcd

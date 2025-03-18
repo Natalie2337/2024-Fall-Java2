@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<FlowPane fx:controller="com.example.whackamole.HitMouseController"
+  xmlns:fx="http://javafx.com/fxml/1" alignment="center" hgap="5" vgap="5">
+  <HBox fx:id="hbHead" prefWidth="560" prefHeight="40">
+    <Label fx:id="labelTime" prefWidth="200" prefHeight="40" alignment="center" text="00:00" />
+    <Button fx:id="btnStart" prefWidth="160" prefHeight="40" alignment="center" text="Start" />
+    <Label fx:id="labelCount" prefWidth="200" prefHeight="40" alignment="center" text="Count" />
+  </HBox>
+  <GridPane fx:id="gpGrass" prefWidth="560" prefHeight="630" />
+</FlowPane>

@@ -1,0 +1,10 @@
+t#newPatternCondition#STOCK_CODE#Pattern#ST.*
+t#newPatternCondition#STOCK_NAME#Pattern#Company
+t#newPatternCondition#COMPANY_NAME#Pattern#git
+t#newPatternCondition#COMPANY_EN_NAME#Pattern#China
+t#newPatternCondition#INDUSTRY_CODE_A#Pattern#\d
+t#newPatternCondition#INDUSTRY_NAME_C#Pattern#(industry)?
+f#newPatternCondition#IPO_PRICE#Pattern#error!
+t#newPatternCondition#IPO_CURRENCY#Pattern#^CNY$
+f#newPatternCondition#IPO_SHARES#Pattern#shares
+t#newPatternCondition#MARKET_TYPE#Pattern#\d

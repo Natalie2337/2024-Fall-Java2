@@ -1,0 +1,10 @@
+t#注释,Stkcd
+t#Trddt,股票编码,Stkcd
+t#Stkcd,Stknme,公司名称,公司英文名,公司名称
+t#"Stkcd","公司名","Stknme"
+t#"""",Stkcd,Stknme,Listdt,Conme
+t#"\\~",Stkcd,Stknme
+f# Stkcd, Stknme, Listdt, Indcd
+t#Stkcd, Let's practice!,Stknme,Listdt,OWNERSHIPTYPE
+f#Sctcd,Stknme,CITY,CITYCODE
+t#Crcd,Commnt,Statdt,Parval,Ipoprm,Stkcd,Nnindnme

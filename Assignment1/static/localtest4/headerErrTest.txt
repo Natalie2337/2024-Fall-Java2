@@ -1,0 +1,17 @@
+f#
+f#STKCD
+f#Stkcd,Stkcd
+f#Stkcd,Trddt,Trddt
+f#Trddt
+f#"Stkcd"""
+f#"Stkcd
+f#Stkcd",
+f#Stkcd"",
+f#Stkcd"
+f#Stkcd""
+f#"Stkcd" ,
+f#Stkcd ,
+f#'Stkcd'
+f#Stkcd//
+f#Stkcd,"
+f#,,

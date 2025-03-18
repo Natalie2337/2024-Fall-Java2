@@ -1,0 +1,14 @@
+t#newCodeCondition#STOCK_CODE#Code#600500
+t#newCodeCondition#STOCK_CODE#Code#XXXXXX
+t#newCodeCondition#STOCK_CODE#Code#01
+t#newCodeCondition#STOCK_CODE#Code#1
+t#newCodeCondition#STOCK_CODE#Code#?
+t#newCodeCondition#INDUSTRY_CODE_A#Code#003
+f#newCodeCondition#STOCK_NAME#Code#Company
+f#newCodeCondition#COMPANY_NAME#Code#Company
+f#newCodeCondition#COMPANY_EN_NAME#Code#Compnay
+t#newCodeCondition#INDUSTRY_CODE_A#Code#Company
+f#newCodeCondition#INDUSTRY_NAME_C#Code#Company
+f#newCodeCondition#COMMNT#Code#commnt
+f#newCodeCondition#CROSS_CODE#Code#~
+f#newCodeCondition#COMPANY_STATUS#Code#600001
